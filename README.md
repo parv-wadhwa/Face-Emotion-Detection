@@ -28,3 +28,14 @@ A backend REST API for a course selling platform with **user and admin role-base
 ---
 
 ## 📂 Project Structure
+
+├── controllers # Business logic
+├── models # MongoDB schemas
+├── routes # API endpoints
+├── middleware # Authentication & validation
+├── config # DB connection & env settings
+└── server.js # App entry point'
+
+
+
+
